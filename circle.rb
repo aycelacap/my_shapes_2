@@ -8,4 +8,8 @@ class Circle
   def area
     Math::PI * @radus ** 2
   end
+
+  def hi
+    p 'hi'
+  end
 end 
